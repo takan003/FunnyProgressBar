@@ -17,7 +17,19 @@ Copyright (c) 2025 Chang, Chia-Cheng 張家誠
 # 中文版本使用介紹
 ## 快速使用預覽
 ### 取得檔案
-請務必使用「建立副本」的方式將檔案複製到您的雲端硬碟中，檔案名稱中的「的副本」更名清除或重新命名。  
-[示範教學1：取得檔案](https://www.php-pie.net/images/gas/funnyprogressbar/funnyprogressbar_c_01.gif)
+請務必使用「建立副本」的方式將檔案複製到您的雲端硬碟中，檔案可以任意重新命名。  
+<img src="https://www.php-pie.net/images/gas/funnyprogressbar/funnyprogressbar_c_01.gif" alt="請務必使用「建立副本」的方式將檔案複製到您的雲端硬碟中，檔案可以任意重新命名。" />
+### 授權使用
+程式執行時會取用您雲端硬碟中的檔案，所以第1次執行時請先授權允許使用您的雲端硬碟。  
+<img src="https://www.php-pie.net/images/gas/funnyprogressbar/funnyprogressbar_c_02.png" alt="請先授權允許使用您的雲端硬碟" />
+### 必要設定
+執行這個程式，您需要1個指定的工作表以及2個對應的欄位，配合下圖分點說明：  
+1. 指定1個工作表「回條繳交」(自訂名稱)，並以此名稱在試算表中建立工作表。
+2. 假設回條回收單位為「班級」(自訂名稱)，所以在「回條繳交」工作表中需要有一個『必須在最右邊的欄位』，名稱為「班級」。  
+3. 每個班級回收的進度有一個「完成百分比」(自訂名稱)，所以在「回條繳交」工作表中需要有一個欄位名稱為「完成百分比」。
+<img src="https://www.php-pie.net/images/gas/funnyprogressbar/funnyprogressbar_c_02-5.png" alt="一定要具備的1個工作表，2個欄位" />
+### 製作「圖示」進度條
+確認完成必要的設定之後，立刻以範例試玩看看，顯示模式「圖示」，進度條方向左、右各試一次，只要使用選單「進階功能」中的「製作進度條」，一鍵就能完成。  
+<img src="https://www.php-pie.net/images/gas/funnyprogressbar/funnyprogressbar_c_03.gif" alt="製作「圖示」進度條" />
 # English version
 to be continued.  
