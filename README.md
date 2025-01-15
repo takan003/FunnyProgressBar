@@ -32,12 +32,12 @@ Copyright (c) 2025 Chang, Chia-Cheng 張家誠
 ### 製作「圖示」進度條
 確認完成必要的設定之後，立刻以範例試玩看看，顯示模式「圖示」，進度條方向左、右各試一次，只要使用選單「進階功能」中的「製作進度條」，一鍵就能完成。  
 <img src="https://www.php-pie.net/images/gas/funnyprogressbar/funnyprogressbar_c_03-5.gif" alt="製作「圖示」進度條" title="製作「圖示」進度條" />
-### 製作「連續圖」進度條
-準備1個圖檔，讓每個班級用進度來拼接，增添進度競爭的樂趣，配合下圖分點說明：  
+### 製作「連續圖」進度條１
+第1種方式：準備1個圖檔，讓每個班級用進度來拼接，增添進度競爭的樂趣，配合下圖分點說明：  
 1. 在設定工作表的「顯示模式」選擇為「連續圖」，「共用一張連續圖」選擇為「是」，利用切割軟體或網站將圖檔切成10等分後放入「OnlyOne」夾中。  
 2. 使用選單「進階功能」中的「製作進度條」，一鍵就能完成(因為安全性考量，第1次引用圖檔時會要求您的授權，允許授權後才能正常顯示)。  
 3. 圖檔會受到儲存格大小影響而自動縮放，請調整儲存格的欄寬或列高來取得最好的拼接效果。  
-<img src="https://www.php-pie.net/images/gas/funnyprogressbar/funnyprogressbar_c_04.gif" alt="製作「連續圖」進度條" title="製作「連續圖」進度條" />
+<img src="https://www.php-pie.net/images/gas/funnyprogressbar/funnyprogressbar_c_04.gif" alt="製作「連續圖」進度條１" title="製作「連續圖」進度條１" />
 
 # English version
 to be continued.  
