@@ -15,6 +15,9 @@ Welcome to my website [PHP-Pie](https://php-pie.net "PHP-Pie"), there may be som
 歡迎參觀我的網站 [PHP-Pie](https://php-pie.net "PHP-Pie")，裡頭也許會有一些能幫助您的工具、程式，甚至是提供您創意的靈感。如果您願意的話，也非常樂意接受您的[打賞](https://p.ecpay.com.tw/36FF207 "打賞")。:heart:  
 Copyright (c) 2025 Chang, Chia-Cheng 張家誠
 # 中文版本使用介紹
-to be continued.  
+## 快速使用預覽
+### 取得檔案
+請務必使用「建立副本」的方式將檔案複製到您的雲端硬碟中，檔案名稱中的「的副本」更名清除或重新命名。  
+[示範教學1：取得檔案](https://www.php-pie.net/images/gas/funnyprogressbar/funnyprogressbar_c_01.gif)
 # English version
 to be continued.  
