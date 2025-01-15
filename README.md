@@ -31,6 +31,6 @@ Copyright (c) 2025 Chang, Chia-Cheng 張家誠
 
 ### 製作「圖示」進度條
 確認完成必要的設定之後，立刻以範例試玩看看，顯示模式「圖示」，進度條方向左、右各試一次，只要使用選單「進階功能」中的「製作進度條」，一鍵就能完成。  
-<img src="https://www.php-pie.net/images/gas/funnyprogressbar/funnyprogressbar_c_99.gif" alt="製作「圖示」進度條" />
+<img src="https://www.php-pie.net/images/gas/funnyprogressbar/funnyprogressbar_c_03.gif" alt="製作「圖示」進度條" />
 # English version
 to be continued.  
