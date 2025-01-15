@@ -15,6 +15,6 @@ Welcome to my website [PHP-Pie](https://php-pie.net "PHP-Pie"), there may be som
 歡迎參觀我的網站 [PHP-Pie](https://php-pie.net "PHP-Pie")，裡頭也許會有一些能幫助您的工具、程式，甚至是提供您創意的靈感。如果您願意的話，也非常樂意接受您的[打賞](https://p.ecpay.com.tw/36FF207 "打賞")。:heart:  
 Copyright (c) 2025 Chang, Chia-Cheng 張家誠
 # 中文版本使用介紹
-
+to be continued.  
 # English version
-
+to be continued.  
