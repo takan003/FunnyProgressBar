@@ -45,7 +45,7 @@ Copyright (c) 2025 Chang, Chia-Cheng 張家誠
 1. 在設定工作表的「顯示模式」選擇為「連續圖」，「共用一張連續圖」選擇為「否」，利用切割軟體或網站將3張圖檔切成10等分後，分別放入各自的資料夾。  
 2. 配合連續圖的長寬，提供適當的儲存格大小(欄寬50，列高100)後，使用選單「進階功能」中的「製作進度條」，一鍵就能完成。  
 3. 。  
-<img src="https://www.php-pie.net/images/gas/funnyprogressbar/funnyprogressbar_c_05-.gif" alt="製作「連續圖」進度條 2-A" title="製作「連續圖」進度條 2-A" />
+<img src="https://www.php-pie.net/images/gas/funnyprogressbar/funnyprogressbar_c_05.gif" alt="製作「連續圖」進度條 2-A" title="製作「連續圖」進度條 2-A" />
 
 # English version
 to be continued.  
