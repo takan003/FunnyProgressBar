@@ -9,7 +9,7 @@
 用簡易的試算表公式寫入儲存格中，讓您隨時可以套用到其他的試算表，完全不需要程式基礎就能使用。
 
 # Make a Copy 建立副本使用
-👉 中文版本[[建立副本](https://docs.google.com/spreadsheets/d/1FTw_B4OYP1RyF-9w5cmKq7-E1qNijhZkAZPZBgLmiIg/copy)][[瀏覽檔案](https://drive.google.com/drive/folders/1YIvsr2Sa7dYaCIXt7ZTavFk0VcI3NotZ?usp=sharing)]  👉 English version[[Make a Copy](https://docs.google.com/spreadsheets/d/18Adn7nXFnbpVHl_NETAiH9hMYfjmQQvhxtJCEVFNhPQ/copy)][[View Folder](https://drive.google.com/drive/folders/10z-uKn4Jczw94kSq-AFHymvMQYKf98-0?usp=sharing)]
+👉 English version[[Make a Copy](https://docs.google.com/spreadsheets/d/18Adn7nXFnbpVHl_NETAiH9hMYfjmQQvhxtJCEVFNhPQ/copy)][[View Folder](https://drive.google.com/drive/folders/10z-uKn4Jczw94kSq-AFHymvMQYKf98-0?usp=sharing)] 👉 中文版本[[建立副本](https://docs.google.com/spreadsheets/d/1FTw_B4OYP1RyF-9w5cmKq7-E1qNijhZkAZPZBgLmiIg/copy)][[瀏覽檔案](https://drive.google.com/drive/folders/1YIvsr2Sa7dYaCIXt7ZTavFk0VcI3NotZ?usp=sharing)] 
 
 # Manual 使用介紹
 👉 [English version](#english-version) 👉 [中文版本](#中文版本使用介紹)
