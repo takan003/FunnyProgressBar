@@ -59,7 +59,13 @@ Copyright (c) 2025 Chang, Chia-Cheng 張家誠
 <img src="https://www.php-pie.net/images/gas/funnyprogressbar/funnyprogressbar_c_06.gif" alt="製作「連續圖」進度條 2-B 方向改成由左向右" title="製作「連續圖」進度條 2-B 方向改成由左向右" />
 
 ### 認識「連續圖」進度條 2 的公式
+1. 第1格=if(1/10<百分比,引用第11格顯示第1張圖,"")，第2格=if(2/10<百分比,引用第12格顯示第2張圖,"")，...以此類推。
+2. 為了讓整體版面在顯示上單純與乾淨，可以將O:X欄隱藏。
 <img src="https://www.php-pie.net/images/gas/funnyprogressbar/funnyprogressbar_c_07.gif" alt="製作「連續圖」進度條 2 的公式" title="製作「連續圖」進度條 2 的公式" />
+
+### 認識「圖示」進度條的公式
+第1格=if(1/10<=百分比,if((2/10)>百分比,引用第11格顯示圖示,""),"")，第2格=if(2/10<百分比,if((3/10)>百分比,引用第11格顯示圖示,""),"")，...以此類推。
+<img src="https://www.php-pie.net/images/gas/funnyprogressbar/funnyprogressbar_c_08.gif" alt="製作「圖示」進度條的公式" title="製作「圖示」進度條的公式" />
 
 # English version
 to be continued.  
