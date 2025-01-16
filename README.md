@@ -55,6 +55,11 @@ Copyright (c) 2025 Chang, Chia-Cheng 張家誠
 2. 利用切割軟體或網站將1張圖檔切成每個班級10等分後，分別放入各自的資料夾，每個資料夾中的檔案名稱請依序用數字1至10來命名。   
 3. 配合連續圖的長寬，提供適當的儲存格大小(欄寬84，列高44)後，使用選單「進階功能」中的「製作進度條」，一鍵就能完成。  
 <img src="https://www.php-pie.net/images/gas/funnyprogressbar/funnyprogressbar_c_05-5.gif" alt="製作「連續圖」進度條 2-B" title="製作「連續圖」進度條 2-B" />
+4. 只要將設定工作表「進度條方向」改為「右」，就能讓方向改成由左向右。
+<img src="https://www.php-pie.net/images/gas/funnyprogressbar/funnyprogressbar_c_06.gif" alt="製作「連續圖」進度條 2-B 方向改成由左向右" title="製作「連續圖」進度條 2-B 方向改成由左向右" />
+
+### 認識「連續圖」進度條 2 的公式
+<img src="https://www.php-pie.net/images/gas/funnyprogressbar/funnyprogressbar_c_07.gif" alt="製作「連續圖」進度條 2 的公式" title="製作「連續圖」進度條 2 的公式" />
 
 # English version
 to be continued.  
