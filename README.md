@@ -25,14 +25,20 @@ Copyright (c) 2025 Chang, Chia-Cheng 張家誠
 Please be sure to use the "Make a copy" method to copy the file to your cloud drive. The file can be renamed at will.  
 <img src="https://www.php-pie.net/images/gas/funnyprogressbar/funnyprogressbar_e_01.gif" alt="Make a copy。" title="Make a copy" />
 
+### Authorized
+The program will access files in your cloud drive when it is executed, so please authorize the use of your cloud drive when you execute it for the first time.  
+<img src="https://www.php-pie.net/images/gas/funnyprogressbar/funnyprogressbar_e_02.png" alt="Authorized" title="Authorized" />
+
 # 中文版本使用介紹
 ## 快速使用預覽
 ### 取得檔案
 請務必使用「建立副本」的方式將檔案複製到您的雲端硬碟中，檔案可以任意重新命名。  
 <img src="https://www.php-pie.net/images/gas/funnyprogressbar/funnyprogressbar_c_01.gif" alt="請務必使用「建立副本」的方式將檔案複製到您的雲端硬碟中，檔案可以任意重新命名。" title="請務必使用「建立副本」的方式將檔案複製到您的雲端硬碟中，檔案可以任意重新命名。" />
+
 ### 授權使用
 程式執行時會取用您雲端硬碟中的檔案，所以第1次執行時請先授權允許使用您的雲端硬碟。  
 <img src="https://www.php-pie.net/images/gas/funnyprogressbar/funnyprogressbar_c_02.png" alt="請先授權允許使用您的雲端硬碟" title="請先授權允許使用您的雲端硬碟" />
+
 ### 必要設定
 執行這個程式，您需要1個指定的工作表以及2個對應的欄位，配合下圖分點說明：  
 1. 指定1個工作表「回條繳交」(自訂名稱)，並以此名稱在試算表中建立工作表。  
