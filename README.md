@@ -73,4 +73,7 @@ Copyright (c) 2025 Chang, Chia-Cheng 張家誠
 <img src="https://www.php-pie.net/images/gas/funnyprogressbar/funnyprogressbar_c_09.gif" alt="移除廣告" title="移除廣告" />
 
 # English version
-to be continued.  
+## Quick preview
+### Make a copy
+Please be sure to use the "Make a copy" method to copy the file to your cloud drive. The file can be renamed at will.  
+<img src="https://www.php-pie.net/images/gas/funnyprogressbar/funnyprogressbar_e_01.gif" alt="Make a copy。" title="Make a copy" />
