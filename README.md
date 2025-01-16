@@ -32,6 +32,11 @@ Copyright (c) 2025 Chang, Chia-Cheng 張家誠
 ### 製作「圖示」進度條
 確認完成必要的設定之後，立刻以範例試玩看看，顯示模式「圖示」，進度條方向左、右各試一次，只要使用選單「進階功能」中的「製作進度條」，一鍵就能完成。  
 <img src="https://www.php-pie.net/images/gas/funnyprogressbar/funnyprogressbar_c_03-5.gif" alt="製作「圖示」進度條" title="製作「圖示」進度條" />
+
+### 認識「圖示」進度條的公式
+第1格=if(1/10<=百分比,if((2/10)>百分比,引用O欄顯示圖示,""),"")，第2格=if(2/10<百分比,if((3/10)>百分比,引用O欄顯示圖示,""),"")，...以此類推。  
+<img src="https://www.php-pie.net/images/gas/funnyprogressbar/funnyprogressbar_c_08.gif" alt="製作「圖示」進度條的公式" title="製作「圖示」進度條的公式" />
+
 ### 製作「連續圖」進度條 1
 第1種方式：準備1個圖檔，讓每個班級用進度來拼接，增添進度競爭的樂趣，配合下圖分點說明：  
 1. 在設定工作表的「顯示模式」選擇為「連續圖」，「共用一張連續圖」選擇為「是」。
@@ -62,10 +67,6 @@ Copyright (c) 2025 Chang, Chia-Cheng 張家誠
 1. 第1格=if(1/10<百分比,引用O欄顯示第1張圖,"")，第2格=if(2/10<百分比,引用P欄顯示第2張圖,"")，...以此類推。
 2. 為了讓整體版面在顯示上單純與乾淨，可以將O:X欄隱藏。
 <img src="https://www.php-pie.net/images/gas/funnyprogressbar/funnyprogressbar_c_07.gif" alt="製作「連續圖」進度條 2 的公式" title="製作「連續圖」進度條 2 的公式" />
-
-### 認識「圖示」進度條的公式
-第1格=if(1/10<=百分比,if((2/10)>百分比,引用O欄顯示圖示,""),"")，第2格=if(2/10<百分比,if((3/10)>百分比,引用O欄顯示圖示,""),"")，...以此類推。  
-<img src="https://www.php-pie.net/images/gas/funnyprogressbar/funnyprogressbar_c_08.gif" alt="製作「圖示」進度條的公式" title="製作「圖示」進度條的公式" />
 
 ### 移除廣告
 希望您能保留，如果不得已要移除，請在設定工作表的「移除廣告」欄位中輸入「張家誠，我金拍謝！」
