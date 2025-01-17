@@ -29,6 +29,13 @@ Please be sure to use the "Make a copy" method to copy the file to your cloud dr
 The program will access files in your cloud drive when it is executed, so please authorize the use of your cloud drive when you execute it for the first time.  
 <img src="https://www.php-pie.net/images/gas/funnyprogressbar/funnyprogressbar_e_02.png" alt="Authorized" title="Authorized" />
 
+### Necessary settings
+To execute this program, you need 1 designated sheet and 2 corresponding fields, as shown in the figure below:  
+1. Specify a sheet "Attend investigation" (custom name) and create a sheet with this name in the spreadsheet.  
+2. Assume that the reply collection unit is "Class" (custom name), so the "rightmost column" in the "Attend investigation" sheet is named "class".  
+3. The progress of each class's collection has a "Percentage" (custom name), so there needs to be a column named "Percentage" in the "Attend investigation" sheet.  
+<img src="https://www.php-pie.net/images/gas/funnyprogressbar/funnyprogressbar_e_02-5.png" alt="you need 1 designated sheet and 2 corresponding fields" title="you need 1 designated sheet and 2 corresponding fields" />
+
 # 中文版本使用介紹
 ## 快速使用預覽
 ### 取得檔案
