@@ -70,7 +70,16 @@ Mode B-2: Prepare 1 picture, cut it into 3 pieces, and then cut each picture int
 3. According to the length and width of the continuous picture, provide an appropriate storage cell size (column width 63, row height 33), and use the "Make bars" in the "Advanced" menu to complete it with one click.  
 <img src="https://www.php-pie.net/images/gas/funnyprogressbar/funnyprogressbar_e_05-5.gif" alt="Continuous Picture progress bar Mode B-2" title="Continuous Picture progress bar Mode B-2" />
 4. In the "Setup" sheet, change "Bar's direction" to "Right" to change the direction from left to right.  
-<img src="https://www.php-pie.net/images/gas/funnyprogressbar/funnyprogressbar_c_06.gif" alt="Continuous Picture progress bar Mode B-2 change the direction from left to right" title="Continuous Picture progress bar Mode B-2 change the direction from left to right" />
+<img src="https://www.php-pie.net/images/gas/funnyprogressbar/funnyprogressbar_e_06.gif" alt="Continuous Picture progress bar Mode B-2 change the direction from left to right" title="Continuous Picture progress bar Mode B-2 change the direction from left to right" />
+
+### Formula of the "Continuous Picture" progress bar
+1. The first cell = if (1/10 < percentage, reference column O to display the first picture, ""), the second cell = if (2/10 < percentage, reference column P to display the second picture, ""), ...and so on.
+2. In order to make the overall layout simple and clean, we will hide the O:X column in this example.
+<img src="https://www.php-pie.net/images/gas/funnyprogressbar/funnyprogressbar_e_07.gif" alt="Formula of the Continuous Picture progress bar" title="Formula of the Continuous Picture progress bar" />
+
+### Remove ads
+I hope you can keep it, but you can input "I'm sorry to Chang Chia Cheng" 🤣 to remove the ads.  
+<img src="https://www.php-pie.net/images/gas/funnyprogressbar/funnyprogressbar_e_09.gif" alt="Remove ads" title="Remove ads" />
 
 # 中文版本使用介紹
 ## 快速使用預覽
@@ -129,5 +138,5 @@ Mode B-2: Prepare 1 picture, cut it into 3 pieces, and then cut each picture int
 <img src="https://www.php-pie.net/images/gas/funnyprogressbar/funnyprogressbar_c_07.gif" alt="製作「連續圖」進度條 2 的公式" title="製作「連續圖」進度條 2 的公式" />
 
 ### 移除廣告
-希望您能保留，如果不得已要移除，請在設定工作表的「移除廣告」欄位中輸入「張家誠，我金拍謝！」
+希望您能保留，如果不得已要移除，請在設定工作表的「移除廣告」欄位中輸入「張家誠，我金拍謝！」 🤣
 <img src="https://www.php-pie.net/images/gas/funnyprogressbar/funnyprogressbar_c_09.gif" alt="移除廣告" title="移除廣告" />
