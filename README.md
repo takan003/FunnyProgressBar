@@ -55,8 +55,9 @@ Mode B-1: Prepare 3 pictures and let each class use the progress to piece togeth
 2. Use cutting software or website to cut the 3 images into 10 equal parts, and put them into the folders of respective classes. Please name the files in each folder with numbers 1 to 10.   
 3. According to the length and width of the continuous picture, provide an appropriate storage cell size (column width 50, row height 100), and use the "Make bars" in the "Advanced" menu to complete it with one click.  
 4. In order to make the overall layout simple and clean, we will hide the O:X column in this example.  
-The picture of the Three Graces is taken from the "Art Learnings" website.  
-<img src="https://www.php-pie.net/images/gas/funnyprogressbar/funnyprogressbar_e_05.gif" alt="" title="" />
+The picture of the Three Graces is taken from the "[Art Learnings]([https://artlearnings.com/](https://artlearnings.com/2023/10/25/%E7%BE%8E%E6%83%A0%E4%B8%89%E5%A5%B3%E7%A5%9E%EF%BD%89%EF%BC%8E%E4%B8%8D%E5%90%8C%E8%97%9D%E8%A1%93%E5%AE%B6%E7%9C%BC%E4%B8%AD%E7%9A%84%E6%B0%B8%E6%81%86%E9%9D%88%E6%84%9F/)" website.
+The picture of the Titanic is taken from the "[wikipedia](https://zh.wikipedia.org/zh-tw/%E6%B3%B0%E5%9D%A6%E5%B0%BC%E5%85%8B%E5%8F%B7)" website.  
+<img src="https://www.php-pie.net/images/gas/funnyprogressbar/funnyprogressbar_e_05.gif" alt="Continuous Picture progress bar Mode B-1" title="Continuous Picture progress bar Mode B-1" />
 
 # 中文版本使用介紹
 ## 快速使用預覽
