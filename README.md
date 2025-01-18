@@ -54,7 +54,7 @@ Mode B-1: Prepare 3 pictures and let each class use the progress to piece togeth
 1. In the "Setup" sheet, select "Continuous Picture" in the "Display Mode" field and select "No" in the "All groups use one CP" field.  
 2. Use cutting software or website to cut the 3 images into 10 equal parts, and put them into the folders of respective classes. Please name the files in each folder with numbers 1 to 10.   
 3. According to the length and width of the continuous picture, provide an appropriate storage cell size (column width 50, row height 100), and use the "Make bars" in the "Advanced" menu to complete it with one click.  
-4. 為了讓整體版面在顯示上單純與乾淨，這次的範例我們將O:X欄隱藏。
+4. In order to make the overall layout simple and clean, we will hide the O:X column in this example.  
 The picture of the Three Graces is taken from the "Art Learnings" website.  
 <img src="https://www.php-pie.net/images/gas/funnyprogressbar/funnyprogressbar_e_05.gif" alt="" title="" />
 
