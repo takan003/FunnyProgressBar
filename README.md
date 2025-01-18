@@ -36,6 +36,10 @@ To execute this program, you need 1 designated sheet and 2 corresponding fields,
 3. The progress of each class's collection has a "Percentage" (custom name), so there needs to be a column named "Percentage" in the "Attend investigation" sheet.  
 <img src="https://www.php-pie.net/images/gas/funnyprogressbar/funnyprogressbar_e_02-5.png" alt="you need 1 designated sheet and 2 corresponding fields" title="you need 1 designated sheet and 2 corresponding fields" />
 
+### "Icon" progress bar
+After confirming that the necessary settings have been completed, try the example immediately. Display mode "icon" and try the progress bar direction left and right. Just use the "Create progress bar" in the "Advanced function" menu, and One-click completion.  
+<img src="https://www.php-pie.net/images/gas/funnyprogressbar/funnyprogressbar_e_03.gif" alt="Icon progress bar" title="Icon progress bar" />
+
 # 中文版本使用介紹
 ## 快速使用預覽
 ### 取得檔案
