@@ -40,6 +40,10 @@ To execute this program, you need 1 designated sheet and 2 corresponding fields,
 After confirming that the necessary settings have been completed, try the example immediately. Display mode "icon" and try the progress bar direction left and right. Just use the "Create progress bar" in the "Advanced function" menu, and One-click completion.  
 <img src="https://www.php-pie.net/images/gas/funnyprogressbar/funnyprogressbar_e_03.gif" alt="Icon progress bar" title="Icon progress bar" />
 
+### Formula of the "Icon" progress bar
+The first cell = if (1/10 <= percentage, if ((2/10) > percentage, reference cloumn O to display the icon, ""), ""), the second cell = if (2/10 < percentage, if((3/10)>percentage, reference column O to display the icon,""),""),...and so on.  
+<img src="https://www.php-pie.net/images/gas/funnyprogressbar/funnyprogressbar_e_08.gif" alt="the formula of the Icon progress bar" title="the formula of the Icon progress bar" />
+
 ### "Continuous Picture" progress bar Mode A
 Mode A: Prepare a picture file and let each class be the progress bar picture to add fun to the competition. With following picture to explain the points:  
 1. In the "Setup" sheet, select "Continuous Picture" in the "Display Mode" field and select "Yes" in the "All groups use one CP" field.  
@@ -55,9 +59,18 @@ Mode B-1: Prepare 3 pictures and let each class use the progress to piece togeth
 2. Use cutting software or website to cut the 3 images into 10 equal parts, and put them into the folders of respective classes. Please name the files in each folder with numbers 1 to 10.   
 3. According to the length and width of the continuous picture, provide an appropriate storage cell size (column width 50, row height 100), and use the "Make bars" in the "Advanced" menu to complete it with one click.  
 4. In order to make the overall layout simple and clean, we will hide the O:X column in this example.  
-The picture of the Three Graces is taken from the "[Art Learnings]([https://artlearnings.com/](https://artlearnings.com/2023/10/25/%E7%BE%8E%E6%83%A0%E4%B8%89%E5%A5%B3%E7%A5%9E%EF%BD%89%EF%BC%8E%E4%B8%8D%E5%90%8C%E8%97%9D%E8%A1%93%E5%AE%B6%E7%9C%BC%E4%B8%AD%E7%9A%84%E6%B0%B8%E6%81%86%E9%9D%88%E6%84%9F/)" website.
+The picture of the Three Graces is taken from the "[Art Learnings]([https://artlearnings.com/](https://artlearnings.com/2023/10/25/%E7%BE%8E%E6%83%A0%E4%B8%89%E5%A5%B3%E7%A5%9E%EF%BD%89%EF%BC%8E%E4%B8%8D%E5%90%8C%E8%97%9D%E8%A1%93%E5%AE%B6%E7%9C%BC%E4%B8%AD%E7%9A%84%E6%B0%B8%E6%81%86%E9%9D%88%E6%84%9F/)" website.  
 The picture of the Titanic is taken from the "[wikipedia](https://zh.wikipedia.org/zh-tw/%E6%B3%B0%E5%9D%A6%E5%B0%BC%E5%85%8B%E5%8F%B7)" website.  
 <img src="https://www.php-pie.net/images/gas/funnyprogressbar/funnyprogressbar_e_05.gif" alt="Continuous Picture progress bar Mode B-1" title="Continuous Picture progress bar Mode B-1" />
+
+### "Continuous Picture" progress bar Mode B-2
+Mode B-2: Prepare 1 picture, cut it into 3 pieces, and then cut each picture into 10 equal parts, and put them into the folders of 3 classes respectively, adding to the fun of progress competition.  With following picture to explain the points:  
+1. In the "Setup" sheet, select "Continuous Picture" in the "Display Mode" field and select "No" in the "All groups use one CP" field.  
+2. Use cutting software or website to cut the 3 images into 10 equal parts, and put them into the folders of respective classes. Please name the files in each folder with numbers 1 to 10.   
+3. According to the length and width of the continuous picture, provide an appropriate storage cell size (column width 63, row height 33), and use the "Make bars" in the "Advanced" menu to complete it with one click.  
+<img src="https://www.php-pie.net/images/gas/funnyprogressbar/funnyprogressbar_e_05-5.gif" alt="Continuous Picture progress bar Mode B-2" title="Continuous Picture progress bar Mode B-2" />
+4. In the "Setup" sheet, change "Bar's direction" to "Right" to change the direction from left to right.  
+<img src="https://www.php-pie.net/images/gas/funnyprogressbar/funnyprogressbar_c_06.gif" alt="Continuous Picture progress bar Mode B-2 change the direction from left to right" title="Continuous Picture progress bar Mode B-2 change the direction from left to right" />
 
 # 中文版本使用介紹
 ## 快速使用預覽
@@ -102,7 +115,7 @@ The picture of the Titanic is taken from the "[wikipedia](https://zh.wikipedia.o
 <img src="https://www.php-pie.net/images/gas/funnyprogressbar/funnyprogressbar_c_05a.gif" alt="製作「連續圖」進度條 2-A" title="製作「連續圖」進度條 2-A" />
 
 ### 製作「連續圖」進度條 2-B
-第2種方式：準備1張圖檔切割給每個班級用，全部的班級一起拼揭連續圖，增添進度競爭的樂趣，配合下圖分點說明：  
+第3種方式：準備1張圖檔切割給每個班級用，全部的班級一起拼揭連續圖，增添進度競爭的樂趣，配合下圖分點說明：  
 1. 在設定工作表的「顯示模式」選擇為「連續圖」，「共用一張連續圖」選擇為「否」。
 2. 利用切割軟體或網站將1張圖檔切成每個班級10等分後，分別放入各自的資料夾，每個資料夾中的檔案名稱請依序用數字1至10來命名。   
 3. 配合連續圖的長寬，提供適當的儲存格大小(欄寬84，列高44)後，使用選單「進階功能」中的「製作進度條」，一鍵就能完成。  
