@@ -41,13 +41,22 @@ After confirming that the necessary settings have been completed, try the exampl
 <img src="https://www.php-pie.net/images/gas/funnyprogressbar/funnyprogressbar_e_03.gif" alt="Icon progress bar" title="Icon progress bar" />
 
 ### "Continuous Picture" progress bar Mode A
-Mode A: Prepare a picture file and let each class be the progress bar picture to add fun to the competition. Use the following picture to explain the points:  
-1. In the "Setup" sheet, select "Continuous Picture" in the "Display Mode" field and select "Yes" in the "" field.  
+Mode A: Prepare a picture file and let each class be the progress bar picture to add fun to the competition. With following picture to explain the points:  
+1. In the "Setup" sheet, select "Continuous Picture" in the "Display Mode" field and select "Yes" in the "All groups use one CP" field.  
 2. Use cutting software or website to cut the image into 10 equal parts and put them into the "OnlyOne" folder. Please name the image file with numbers 1 to 10.  
 3. Use the "Make Bars" in the "Advanced" menu to complete it with one click. (Due to security, your authorization will be requested when you reference the image file for the first time. It can only be displayed normally after authorization is granted)  
 4. The image will be automatically scaled according to the cell size. Please adjust the cell column width or row height to achieve the best stitching effect.  
 5. The image file cannot be directly placed in the storage cell, so first use the IMAGE function to import it into the storage cell (column O:X), and then use the formula to bring it into the progress bar (column E:N).  
 <img src="https://www.php-pie.net/images/gas/funnyprogressbar/funnyprogressbar_e_04.gif" alt="Continuous Picture progress bar Mode A" title="Continuous Picture progress bar Mode A" />
+
+### "Continuous Picture" progress bar Mode B-1
+Mode B-1: Prepare 3 pictures and let each class use the progress to piece together their own pictures to see who can complete their own first, adding to the fun of progress competition.  With following picture to explain the points:  
+1. In the "Setup" sheet, select "Continuous Picture" in the "Display Mode" field and select "No" in the "All groups use one CP" field.  
+2. Use cutting software or website to cut the 3 images into 10 equal parts, and put them into the folders of respective classes. Please name the files in each folder with numbers 1 to 10.   
+3. According to the length and width of the continuous picture, provide an appropriate storage cell size (column width 50, row height 100), and use the "Make bars" in the "Advanced" menu to complete it with one click.  
+4. 為了讓整體版面在顯示上單純與乾淨，這次的範例我們將O:X欄隱藏。
+The picture of the Three Graces is taken from the "Art Learnings" website.  
+<img src="https://www.php-pie.net/images/gas/funnyprogressbar/funnyprogressbar_e_05.gif" alt="" title="" />
 
 # 中文版本使用介紹
 ## 快速使用預覽
